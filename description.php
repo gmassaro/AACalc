@@ -1,0 +1,1 @@
+For the Avalon Hill board game Axis & Allies, to quickly resolve combat or test out possible battles. Displays economic and military outcomes and probabilities, very customizable.

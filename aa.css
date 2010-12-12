@@ -1,0 +1,29 @@
+.graph span {display: block; float: left; font-size: 60%; text-align: center; border: 1px solid grey; padding: 0; margin: 0; height:15px; }
+#battle input.units {width: 3.5ex; text-align: center;}
+#battle th { padding: 0 2px; text-align: left;}
+#battle td {padding: 2px;}
+/* original colors */
+/*.att, .dalllost {background: #070; color: white;}
+.def, .aalllost {background: #335; color: white;}
+.alost, .dlost {background: #ddd; color: grey; border: none !important; padding: 1px 0px !important;} */
+/* classic colors */
+.attcla {background: #D41C1C; color: white; text-shadow: 1px 1px 1px #000}
+.defcla {background: #335; color: white; text-shadow: 1px 1px 1px #000}
+/* revised colors */
+.attrev {background: #384B73; color: white; text-shadow: 1px 1px 1px #000}
+.defrev {background: #202C44; color: white; text-shadow: 1px 1px 1px #000}
+/* AA50 colors */
+.attaa50 {background: #52402B; color: #EEDD82; text-shadow: 1px 1px 1px #000}
+.defaa50 {background: #211509; color: #EEDD82; text-shadow: 1px 1px 1px #000}
+/* AA1942 colors text-shadow attribute supported in all but IE*/
+.att, .dalllost {background: #59684D; color: white; text-shadow: 1px 1px 1px #000}
+.def, .aalllost {background: #323522; color: white; text-shadow: 1px 1px 1px #000}
+.lost {background: #ddd; color: grey; text-shadow: 1px 1px 1px #FFF}
+.alost, .dlost {background: #ddd; color: grey; border: none !important; padding: 1px 0px !important;}
+.unitlabels {font-size: 60%;text-align: center;}
+.dicebox {}
+.hitnum {}
+.dice { /*border-right: 2px groove green; border-left: 2px groove green; */
+}
+.dice img{padding: 0 1px;}
+.noshow {display: none !important;}
